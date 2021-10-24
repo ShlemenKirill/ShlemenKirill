@@ -82,4 +82,3 @@
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kirill-shlemen/) 
 
-![The end](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
